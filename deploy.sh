@@ -12,4 +12,4 @@ cd dist
 git init
 git add .
 git commit -m 'feat: deploy'
-git push -f https://github.com/Leon-Amazing/navigation-library.git main:gh-pages
+git push -f https://github.com/Leon-Amazing/navigation-library.git master:gh-pages
