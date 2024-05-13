@@ -4,7 +4,7 @@ import { base } from './config';
 const data = [
   {
     name: "Leon's Blog",
-    link: 'http://leoamazing.gitee.io/blog/',
+    link: 'https://leon-amazing.github.io/blog/',
     img: `/${base}/tool/blog.png`,
   },
   {

@@ -4,7 +4,7 @@ import { base } from './config';
 const data = [
   {
     name: 'English Study',
-    link: 'https://leoamazing.gitee.io/English/',
+    link: 'https://leon-amazing.github.io/english/',
     img: `/${base}/tool/common-blog.png`,
   },
   {
