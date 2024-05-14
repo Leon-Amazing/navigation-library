@@ -18,6 +18,11 @@ const data = [
     img: `/${base}/tool/Github.png`,
   },
   {
+    name: 'keybr',
+    link: 'https://www.keybr.com/',
+    img: `/${base}/tool/keybr.png`,
+  },
+  {
     name: 'Stackoverflow',
     link: 'https://stackoverflow.com/questions',
     img: `/${base}/tool/stackoverflow.png`,
