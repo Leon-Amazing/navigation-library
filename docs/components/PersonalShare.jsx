@@ -77,6 +77,11 @@ const data = [
     link: 'https://sinqi.tools/zh',
     img: `/${base}/tool/sinqi.webp`,
   },
+  {
+    name: 'roadmap',
+    link: 'https://roadmap.sh/frontend',
+    img: `/${base}/tool/roadmap.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
