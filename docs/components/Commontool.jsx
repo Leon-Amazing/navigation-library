@@ -97,6 +97,11 @@ const data = [
     link: 'https://xn--mes15rn9f.xyz/#/dashboard',
     img: `/${base}/tool/common-blog.png`,
   },
+  {
+    name: 'CloudFlare',
+    link: 'https://dash.cloudflare.com/',
+    img: `/${base}/tool/cloudflare.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;

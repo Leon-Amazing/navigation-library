@@ -217,6 +217,11 @@ const data = [
     link: 'https://www.wuxiancv.com/',
     img: `/${base}/tool/wuxiancv.svg`,
   },
+  {
+    name: 'StackBlitz',
+    link: 'https://stackblitz.com/',
+    img: `/${base}/tool/stackblitz.svg`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
