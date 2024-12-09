@@ -102,6 +102,11 @@ const data = [
     link: 'https://motion.dev/',
     img: `/${base}/tool/motion.png`,
   },
+  {
+    name: '即时设计',
+    link: 'https://js.design/',
+    img: `/${base}/tool/js.design.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
