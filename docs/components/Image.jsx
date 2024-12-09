@@ -57,6 +57,11 @@ const data = [
     link: 'https://wall.alphacoders.com/',
     img: `/${base}/tool/alphacoders.png`,
   },
+  {
+    name: 'PIC图片',
+    link: 'https://pic.netbian.com/',
+    img: `/${base}/tool/pic.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
