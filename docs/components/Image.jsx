@@ -62,6 +62,11 @@ const data = [
     link: 'https://pic.netbian.com/',
     img: `/${base}/tool/pic.png`,
   },
+  {
+    name: 'Haowallpaper',
+    link: 'https://haowallpaper.com/',
+    img: `/${base}/tool/haowallpaper.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
