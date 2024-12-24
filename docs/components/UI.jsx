@@ -28,6 +28,11 @@ const data = [
     img: `/${base}/tool/ProComponents.svg`,
   },
   {
+    name: 'Aceternity UI',
+    link: 'https://ui.aceternity.com/',
+    img: `/${base}/tool/aceternity.webp`,
+  },
+  {
     name: 'Vant',
     link: 'https://vant-ui.github.io/vant/#/zh-CN',
     img: `/${base}/tool/vant.png`,
