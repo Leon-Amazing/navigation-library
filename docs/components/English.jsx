@@ -42,6 +42,11 @@ const data = [
     link: 'https://www.italki.cn/zh-cn/teachers/english',
     img: `/${base}/tool/italki.png`,
   },
+  {
+    name: 'dev.to',
+    link: 'https://dev.to/',
+    img: `/${base}/tool/dev.to.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
