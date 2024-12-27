@@ -82,6 +82,11 @@ const data = [
     link: 'https://roadmap.sh/frontend',
     img: `/${base}/tool/roadmap.png`,
   },
+  {
+    name: 'LINUX DO',
+    link: 'https://linux.do/',
+    img: `/${base}/tool/linux.do.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
