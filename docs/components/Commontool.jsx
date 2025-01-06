@@ -98,6 +98,11 @@ const data = [
     img: `/${base}/tool/common-blog.png`,
   },
   {
+    name: '云盟',
+    link: 'https://www.ym321.net/',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
     name: 'CloudFlare',
     link: 'https://dash.cloudflare.com/',
     img: `/${base}/tool/cloudflare.png`,
