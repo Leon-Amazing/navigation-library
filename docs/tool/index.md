@@ -6,6 +6,10 @@ nav:
   order: 1
 ---
 
+### <div class="my-tool-title" style="font-ize: 20px;line-height: 42px;font-size: 15px;padding-left: 46px;border-bottom: 0.5px solid rgba(0,0,0,.07);background-color:#f7f9fb">摸鱼神器</div>
+
+<code src="../components/Fishing" inline></code>
+
 ### <div class="my-tool-title" style="font-ize: 20px;line-height: 42px;font-size: 15px;padding-left: 46px;border-bottom: 0.5px solid rgba(0,0,0,.07);background-color:#f7f9fb">常用工具</div>
 
 <code src="../components/Commontool" inline></code>

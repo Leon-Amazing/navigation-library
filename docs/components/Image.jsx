@@ -67,6 +67,11 @@ const data = [
     link: 'https://haowallpaper.com/',
     img: `/${base}/tool/haowallpaper.png`,
   },
+  {
+    name: '图片分割',
+    link: 'https://gridmaker.co/zh-CN',
+    img: `/${base}/tool/gridmaker.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
