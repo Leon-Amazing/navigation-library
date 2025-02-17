@@ -52,6 +52,21 @@ const data = [
     link: 'https://tgdriver.com/',
     img: `/${base}/tool/tgdriver.png`,
   },
+  {
+    name: 'aresn',
+    link: 'https://www.aresn.com/',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
+    name: 'DeepSeek',
+    link: 'https://chat.scnet.cn/#/home',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
+    name: 'chatgptp',
+    link: 'https://chatgptplus.cn/',
+    img: `/${base}/tool/common-blog.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
