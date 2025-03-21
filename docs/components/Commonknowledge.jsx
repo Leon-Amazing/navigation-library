@@ -222,6 +222,11 @@ const data = [
     link: 'https://stackblitz.com/',
     img: `/${base}/tool/stackblitz.svg`,
   },
+  {
+    name: 'AIEditor',
+    link: 'https://www.aieditor.com.cn/',
+    img: `/${base}/tool/aieditor.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
