@@ -13,6 +13,11 @@ const data = [
     img: `/${base}/tool/v2ex.png`,
   },
   {
+    name: '反斗限免',
+    link: 'https://free.apprcn.com/',
+    img: `/${base}/tool/apprcn.png`,
+  },
+  {
     name: 'Hacker News',
     link: 'https://news.ycombinator.com/over?points=350',
     img: `/${base}/tool/ycombinator.svg`,

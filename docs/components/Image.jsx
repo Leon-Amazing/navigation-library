@@ -13,6 +13,11 @@ const data = [
     img: `/${base}/tool/recompressor.png`,
   },
   {
+    name: 'zippic',
+    link: 'https://www.zippic.cn/zh',
+    img: `/${base}/tool/zippic.webp`,
+  },
+  {
     name: 'favicon',
     link: 'https://favicon.io/',
     img: `/${base}/tool/iconfont.svg`,
