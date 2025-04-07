@@ -122,6 +122,11 @@ const data = [
     link: 'https://unibest.tech/',
     img: `/${base}/tool/unibest.svg`,
   },
+  {
+    name: 'hexo',
+    link: 'https://hexo.io/',
+    img: `/${base}/tool/hexo.svg`,
+  },
 ];
 export default () => {
   return <Component data={data} />;

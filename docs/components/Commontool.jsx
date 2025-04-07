@@ -107,6 +107,11 @@ const data = [
     link: 'https://dash.cloudflare.com/',
     img: `/${base}/tool/cloudflare.png`,
   },
+  {
+    name: 'typingclub',
+    link: 'https://www.typingclub.com/',
+    img: `/${base}/tool/typingclub.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
