@@ -112,6 +112,16 @@ const data = [
     link: 'https://www.typingclub.com/',
     img: `/${base}/tool/typingclub.png`,
   },
+  {
+    name: 'youtube-downloader',
+    link: 'https://www.123videotool.com/youtube-downloader',
+    img: `/${base}/tool/youtube-downloader.png`,
+  },
+  {
+    name: '字幕工具导航',
+    link: 'https://subtools.site/',
+    img: `/${base}/tool/subtools.svg`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
