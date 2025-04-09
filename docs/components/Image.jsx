@@ -18,6 +18,11 @@ const data = [
     img: `/${base}/tool/zippic.webp`,
   },
   {
+    name: 'Post Cover(zippic)',
+    link: 'https://cover.zippic.cn/',
+    img: `/${base}/tool/zippic.png`,
+  },
+  {
     name: 'favicon',
     link: 'https://favicon.io/',
     img: `/${base}/tool/iconfont.svg`,
