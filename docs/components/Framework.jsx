@@ -127,6 +127,16 @@ const data = [
     link: 'https://hexo.io/',
     img: `/${base}/tool/hexo.svg`,
   },
+  {
+    name: 'xgplayer',
+    link: 'https://h5player.bytedance.com/',
+    img: `/${base}/tool/xgplayer.png`,
+  },
+  {
+    name: 'muiplayer',
+    link: 'https://muiplayer.js.org/',
+    img: `/${base}/tool/muiplayer.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
