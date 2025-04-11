@@ -93,8 +93,8 @@ const data = [
     img: `/${base}/tool/common-blog.png`,
   },
   {
-    name: '快机场',
-    link: 'https://xn--mes15rn9f.xyz/#/dashboard',
+    name: '一分机场',
+    link: 'https://xn--4gqx1hgtfdmt.com/#/dashboard',
     img: `/${base}/tool/common-blog.png`,
   },
   {
