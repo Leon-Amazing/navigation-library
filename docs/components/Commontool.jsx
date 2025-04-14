@@ -8,6 +8,11 @@ const data = [
     img: `/${base}/tool/common-blog.png`,
   },
   {
+    name: '宝藏网站',
+    link: 'https://www.iiice.cn/',
+    img: `/${base}/tool/iiice.webp`,
+  },
+  {
     name: 'Excalidraw',
     link: 'https://excalidraw.com/',
     img: `/${base}/tool/excalidraw.png`,
