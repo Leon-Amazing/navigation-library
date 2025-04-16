@@ -13,6 +13,11 @@ const data = [
     img: `/${base}/tool/v2ex.png`,
   },
   {
+    name: '优质简报',
+    link: 'https://news.nilh2a2.dev/',
+    img: `/${base}/tool/nilh2a2.svg`,
+  },
+  {
     name: '反斗限免',
     link: 'https://free.apprcn.com/',
     img: `/${base}/tool/apprcn.png`,
