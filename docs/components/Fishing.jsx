@@ -73,6 +73,11 @@ const data = [
     img: `/${base}/tool/forum.png`,
   },
   {
+    name: 'Papergames',
+    link: 'https://papergames.io/zh/',
+    img: `/${base}/tool/papergames.svg`,
+  },
+  {
     name: 'DeepSeek',
     link: 'https://chat.scnet.cn/#/home',
     img: `/${base}/tool/common-blog.png`,
