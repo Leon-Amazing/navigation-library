@@ -28,6 +28,26 @@ const data = [
     img: `/${base}/tool/common-blog.png`,
   },
   {
+    name: 'aresn',
+    link: 'https://www.aresn.com/',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
+    name: 'DanielJia Blog',
+    link: 'https://danieljia.com/',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
+    name: 'Mengke',
+    link: 'https://www.mengke.me/',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
+    name: 'Manuelmoreale',
+    link: 'https://manuelmoreale.com/',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
     name: '编程胶囊',
     link: 'https://www.codejiaonang.com/#/',
     img: `/${base}/tool/codejiaonang.png`,

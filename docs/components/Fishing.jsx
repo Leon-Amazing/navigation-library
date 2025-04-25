@@ -18,6 +18,21 @@ const data = [
     img: `/${base}/tool/nilh2a2.svg`,
   },
   {
+    name: 'PixelsTech',
+    link: 'https://www.pixelstech.net/',
+    img: `/${base}/tool/pixelstech.png`,
+  },
+  {
+    name: 'Ruby China',
+    link: 'https://ruby-china.org/',
+    img: `/${base}/tool/ruby-china.png`,
+  },
+  {
+    name: 'ZMTU',
+    link: 'https://zmtu.com/',
+    img: `/${base}/tool/zmtu.png`,
+  },
+  {
     name: '反斗限免',
     link: 'https://free.apprcn.com/',
     img: `/${base}/tool/apprcn.png`,
@@ -56,16 +71,6 @@ const data = [
     name: '吾爱破解',
     link: 'https://www.52pojie.cn/forum-16-1.html',
     img: `/${base}/tool/forum.png`,
-  },
-  {
-    name: '电报导航',
-    link: 'https://tgdriver.com/',
-    img: `/${base}/tool/tgdriver.png`,
-  },
-  {
-    name: 'aresn',
-    link: 'https://www.aresn.com/',
-    img: `/${base}/tool/common-blog.png`,
   },
   {
     name: 'DeepSeek',

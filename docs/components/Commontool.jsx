@@ -8,6 +8,16 @@ const data = [
     img: `/${base}/tool/common-blog.png`,
   },
   {
+    name: '电报导航',
+    link: 'https://tgdriver.com/',
+    img: `/${base}/tool/tgdriver.png`,
+  },
+  {
+    name: '蜘蛛导航',
+    link: 'https://www.zhizhudh.com/',
+    img: `/${base}/tool/zhizhudh.png`,
+  },
+  {
     name: '宝藏网站',
     link: 'https://www.iiice.cn/',
     img: `/${base}/tool/iiice.webp`,
