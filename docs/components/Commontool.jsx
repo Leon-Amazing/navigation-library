@@ -13,6 +13,16 @@ const data = [
     img: `/${base}/tool/tgdriver.png`,
   },
   {
+    name: '电报频道',
+    link: 'https://telegramnav.github.io/',
+    img: `/${base}/tool/tgdriver.png`,
+  },
+  {
+    name: '电报值得看',
+    link: 'https://dbzdk.com/',
+    img: `/${base}/tool/dbzdk.png`,
+  },
+  {
     name: '蜘蛛导航',
     link: 'https://www.zhizhudh.com/',
     img: `/${base}/tool/zhizhudh.png`,
@@ -135,6 +145,11 @@ const data = [
   {
     name: '字幕工具导航',
     link: 'https://subtools.site/',
+    img: `/${base}/tool/subtools.svg`,
+  },
+  {
+    name: '蛙蛙工具',
+    link: 'https://www.iamwawa.cn/',
     img: `/${base}/tool/subtools.svg`,
   },
 ];
