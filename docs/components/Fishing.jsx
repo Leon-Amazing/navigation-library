@@ -63,11 +63,6 @@ const data = [
     img: `/${base}/tool/tophub.png`,
   },
   {
-    name: '速知',
-    link: 'https://suzhi.fun/',
-    img: `/${base}/tool/suzhi.svg`,
-  },
-  {
     name: '吾爱破解',
     link: 'https://www.52pojie.cn/forum-16-1.html',
     img: `/${base}/tool/forum.png`,

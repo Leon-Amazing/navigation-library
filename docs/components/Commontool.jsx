@@ -8,21 +8,6 @@ const data = [
     img: `/${base}/tool/common-blog.png`,
   },
   {
-    name: '电报导航',
-    link: 'https://tgdriver.com/',
-    img: `/${base}/tool/tgdriver.png`,
-  },
-  {
-    name: '电报频道',
-    link: 'https://telegramnav.github.io/',
-    img: `/${base}/tool/tgdriver.png`,
-  },
-  {
-    name: '电报值得看',
-    link: 'https://dbzdk.com/',
-    img: `/${base}/tool/dbzdk.png`,
-  },
-  {
     name: '蜘蛛导航',
     link: 'https://www.zhizhudh.com/',
     img: `/${base}/tool/zhizhudh.png`,
@@ -31,6 +16,11 @@ const data = [
     name: '宝藏网站',
     link: 'https://www.iiice.cn/',
     img: `/${base}/tool/iiice.webp`,
+  },
+  {
+    name: '速知',
+    link: 'https://suzhi.fun/',
+    img: `/${base}/tool/suzhi.svg`,
   },
   {
     name: 'Excalidraw',
@@ -151,6 +141,41 @@ const data = [
     name: '蛙蛙工具',
     link: 'https://www.iamwawa.cn/',
     img: `/${base}/tool/subtools.svg`,
+  },
+  {
+    name: '电报导航',
+    link: 'https://tgdriver.com/',
+    img: `/${base}/tool/tgdriver.png`,
+  },
+  {
+    name: '电报频道',
+    link: 'https://telegramnav.github.io/',
+    img: `/${base}/tool/tgdriver.png`,
+  },
+  {
+    name: '电报值得看',
+    link: 'https://dbzdk.com/',
+    img: `/${base}/tool/dbzdk.png`,
+  },
+  {
+    name: 'TelegramFind',
+    link: 'https://telegramfind.com/',
+    img: `/${base}/tool/telegramfind.png`,
+  },
+  {
+    name: 'TGSO.PRO',
+    link: 'https://tgso.pro/',
+    img: `/${base}/tool/tgso.png`,
+  },
+  {
+    name: '电报频道',
+    link: 'https://telegramchannels.me/zh',
+    img: `/${base}/tool/telegramchannels.png`,
+  },
+  {
+    name: 'Telemetr',
+    link: 'https://telemetr.io/en/catalog/global',
+    img: `/${base}/tool/telemetr.png`,
   },
 ];
 export default () => {
