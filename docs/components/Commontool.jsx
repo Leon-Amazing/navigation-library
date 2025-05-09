@@ -18,6 +18,11 @@ const data = [
     img: `/${base}/tool/iiice.webp`,
   },
   {
+    name: '数字素养',
+    link: 'https://szsyw.cn/',
+    img: `/${base}/tool/szsyw.png`,
+  },
+  {
     name: '速知',
     link: 'https://suzhi.fun/',
     img: `/${base}/tool/suzhi.svg`,
@@ -140,7 +145,7 @@ const data = [
   {
     name: '蛙蛙工具',
     link: 'https://www.iamwawa.cn/',
-    img: `/${base}/tool/subtools.svg`,
+    img: `/${base}/tool/iamwawa.png`,
   },
   {
     name: '电报导航',
