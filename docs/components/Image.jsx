@@ -82,6 +82,11 @@ const data = [
     link: 'https://gridmaker.co/zh-CN',
     img: `/${base}/tool/gridmaker.png`,
   },
+  {
+    name: 'imgur',
+    link: 'https://imgur.com/',
+    img: `/${base}/tool/imgur.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
