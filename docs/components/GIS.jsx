@@ -77,6 +77,11 @@ const data = [
     link: 'https://lbsyun.baidu.com/apiconsole/key#/home',
     img: `/${base}/tool/baidu.png`,
   },
+  {
+    name: 'Filament',
+    link: 'https://google.github.io/filament/Filament.html',
+    img: `/${base}/tool/common-blog.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;

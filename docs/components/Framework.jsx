@@ -137,6 +137,11 @@ const data = [
     link: 'https://muiplayer.js.org/',
     img: `/${base}/tool/muiplayer.png`,
   },
+  {
+    name: 'Vue-Data-UI',
+    link: 'https://vue-data-ui.graphieros.com/',
+    img: `/${base}/tool/vue-data-ui.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;

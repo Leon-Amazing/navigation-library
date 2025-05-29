@@ -182,6 +182,16 @@ const data = [
     link: 'https://telemetr.io/en/catalog/global',
     img: `/${base}/tool/telemetr.png`,
   },
+  {
+    name: 'ipjiance',
+    link: 'https://ipjiance.com/',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
+    name: 'ping0',
+    link: 'https://ping0.cc/',
+    img: `/${base}/tool/common-blog.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
