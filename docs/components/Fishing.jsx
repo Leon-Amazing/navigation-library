@@ -13,6 +13,16 @@ const data = [
     img: `/${base}/tool/v2ex.png`,
   },
   {
+    name: 'ZMTU',
+    link: 'https://zmtu.com/',
+    img: `/${base}/tool/zmtu.png`,
+  },
+  {
+    name: 'NodeLoc',
+    link: 'https://nodeloc.cc/',
+    img: `/${base}/tool/nodeloc.png`,
+  },
+  {
     name: '优质简报',
     link: 'https://news.nilh2a2.dev/',
     img: `/${base}/tool/nilh2a2.svg`,
@@ -26,11 +36,6 @@ const data = [
     name: 'Ruby China',
     link: 'https://ruby-china.org/',
     img: `/${base}/tool/ruby-china.png`,
-  },
-  {
-    name: 'ZMTU',
-    link: 'https://zmtu.com/',
-    img: `/${base}/tool/zmtu.png`,
   },
   {
     name: '反斗限免',
@@ -81,6 +86,16 @@ const data = [
     name: 'chatgptp',
     link: 'https://chatgptplus.cn/',
     img: `/${base}/tool/common-blog.png`,
+  },
+  {
+    name: '天工',
+    link: 'https://www.tiangong.cn/',
+    img: `/${base}/tool/tiangong.png`,
+  },
+  {
+    name: '豆包',
+    link: 'https://www.doubao.com/chat/',
+    img: `/${base}/tool/doubao.png`,
   },
 ];
 export default () => {
