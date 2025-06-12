@@ -47,6 +47,11 @@ const data = [
     link: 'https://dev.to/',
     img: `/${base}/tool/dev.to.png`,
   },
+  {
+    name: 'dev.to',
+    link: 'https://julebu.co/',
+    img: `/${base}/tool/julebu.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;

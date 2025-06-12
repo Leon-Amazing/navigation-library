@@ -192,6 +192,11 @@ const data = [
     link: 'https://ping0.cc/',
     img: `/${base}/tool/common-blog.png`,
   },
+  {
+    name: 'google文档',
+    link: 'https://docs.google.com/document/u/0/',
+    img: `/${base}/tool/google-document.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
