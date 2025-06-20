@@ -82,6 +82,16 @@ const data = [
     link: 'https://google.github.io/filament/Filament.html',
     img: `/${base}/tool/common-blog.png`,
   },
+  {
+    name: 'Aliyun-AreaSelector',
+    link: 'https://datav.aliyun.com/portal/school/atlas/area_selector',
+    img: `/${base}/tool/area_selector.png`,
+  },
+  {
+    name: 'Geojson.io',
+    link: 'https://geojson.io/',
+    img: `/${base}/tool/common-blog.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
