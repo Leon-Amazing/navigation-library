@@ -90,7 +90,7 @@ const data = [
   {
     name: 'Geojson.io',
     link: 'https://geojson.io/',
-    img: `/${base}/tool/common-blog.png`,
+    img: `/${base}/tool/geojson.png`,
   },
 ];
 export default () => {

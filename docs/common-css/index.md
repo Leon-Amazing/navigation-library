@@ -70,3 +70,13 @@ img:not([src]) {
 ```css
 filter: grayscale(100%);
 ```
+
+### 文字渐变色
+
+```css
+background: linear-gradient(180deg, #ffbebe 14%, #ff6a6b 86%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+color: transparent;
+```
