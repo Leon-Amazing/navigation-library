@@ -13,11 +13,6 @@ const data = [
     img: `/${base}/tool/element-ui.png`,
   },
   {
-    name: 'Vxe-Table',
-    link: 'https://vxetable.cn/#/table/start/install',
-    img: `/${base}/tool/vxe-table.png`,
-  },
-  {
     name: 'Ant Design',
     link: 'https://ant.design/index-cn',
     img: `/${base}/tool/AntDesign.svg`,
@@ -28,14 +23,34 @@ const data = [
     img: `/${base}/tool/ProComponents.svg`,
   },
   {
+    name: 'Vant',
+    link: 'https://vant-ui.github.io/vant/#/zh-CN',
+    img: `/${base}/tool/vant.png`,
+  },
+  {
+    name: 'Vxe-Table',
+    link: 'https://vxetable.cn/#/table/start/install',
+    img: `/${base}/tool/vxe-table.png`,
+  },
+  {
     name: 'Aceternity UI',
     link: 'https://ui.aceternity.com/',
     img: `/${base}/tool/aceternity.webp`,
   },
   {
-    name: 'Vant',
-    link: 'https://vant-ui.github.io/vant/#/zh-CN',
-    img: `/${base}/tool/vant.png`,
+    name: 'Css-Tricks',
+    link: 'https://css-tricks.com/',
+    img: `/${base}/tool/css-tricks.png`,
+  },
+  {
+    name: 'TailWind',
+    link: 'https://tailwindui.com/',
+    img: `/${base}/tool/tailwindui.png`,
+  },
+  {
+    name: 'UnoCss',
+    link: 'https://unocss.dev/',
+    img: `/${base}/tool/unocss.svg`,
   },
   {
     name: 'Flex 布局',
@@ -51,16 +66,6 @@ const data = [
     name: 'FlexBoxFroggy',
     link: 'https://flexboxfroggy.com/',
     img: `/${base}/tool/frog-green.svg`,
-  },
-  {
-    name: 'TailWind',
-    link: 'https://tailwindui.com/',
-    img: `/${base}/tool/tailwindui.png`,
-  },
-  {
-    name: 'Css-Tricks',
-    link: 'https://css-tricks.com/',
-    img: `/${base}/tool/css-tricks.png`,
   },
   {
     name: 'Web Dev',
@@ -93,11 +98,6 @@ const data = [
     img: `/${base}/tool/hightopo.png`,
   },
   {
-    name: 'Storytale',
-    link: 'https://storytale.io/',
-    img: `/${base}/tool/storytale.png`,
-  },
-  {
     name: 'css.bqrdh',
     link: 'https://css.bqrdh.com/',
     img: `/${base}/tool/bqrdh.png`,
@@ -108,14 +108,19 @@ const data = [
     img: `/${base}/tool/motion.png`,
   },
   {
+    name: 'Storytale',
+    link: 'https://storytale.io/',
+    img: `/${base}/tool/storytale.png`,
+  },
+  {
     name: '即时设计',
     link: 'https://js.design/',
     img: `/${base}/tool/js.design.png`,
   },
   {
-    name: 'UnoCss',
-    link: 'https://unocss.dev/',
-    img: `/${base}/tool/unocss.svg`,
+    name: 'Readdy AI',
+    link: 'https://readdy.ai/home',
+    img: `/${base}/tool/readdy.png`,
   },
 ];
 export default () => {

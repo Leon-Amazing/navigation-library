@@ -3,36 +3,6 @@ import Component from './index';
 import { base } from './config';
 const data = [
   {
-    name: 'React 中文文档',
-    link: 'https://reactjs.bootcss.com/',
-    img: `/${base}/tool/react.png`,
-  },
-  {
-    name: 'Redux 中文文档',
-    link: 'https://www.redux.org.cn/',
-    img: `/${base}/tool/redux.png`,
-  },
-  {
-    name: 'React Redux',
-    link: 'https://react-redux.js.org/',
-    img: `/${base}/tool/redux.png`,
-  },
-  {
-    name: 'Ant Design Pro',
-    link: 'https://pro.ant.design/zh-CN/',
-    img: `/${base}/tool/AntDesignPro.svg`,
-  },
-  {
-    name: 'ArcoPro',
-    link: 'https://arco.design/',
-    img: `/${base}/tool/arco.png`,
-  },
-  {
-    name: 'Dumi嘟米',
-    link: 'https://d.umijs.org/',
-    img: `/${base}/tool/dumi.png`,
-  },
-  {
     name: 'Vue3',
     link: 'https://vue3js.cn/',
     img: `/${base}/tool/vue3.svg`,
@@ -58,24 +28,64 @@ const data = [
     img: `/${base}/tool/vite.svg`,
   },
   {
+    name: 'React 中文文档',
+    link: 'https://reactjs.bootcss.com/',
+    img: `/${base}/tool/react.png`,
+  },
+  {
+    name: 'Redux 中文文档',
+    link: 'https://www.redux.org.cn/',
+    img: `/${base}/tool/redux.png`,
+  },
+  {
+    name: 'React Redux',
+    link: 'https://react-redux.js.org/',
+    img: `/${base}/tool/redux.png`,
+  },
+  {
+    name: 'Ant Design Pro',
+    link: 'https://pro.ant.design/zh-CN/',
+    img: `/${base}/tool/AntDesignPro.svg`,
+  },
+  {
+    name: 'AntV',
+    link: 'https://x6.antv.antgroup.com/',
+    img: `/${base}/tool/antv.png`,
+  },
+  {
+    name: 'ArcoPro',
+    link: 'https://arco.design/',
+    img: `/${base}/tool/arco.png`,
+  },
+  {
+    name: 'Dumi嘟米',
+    link: 'https://d.umijs.org/',
+    img: `/${base}/tool/dumi.png`,
+  },
+  {
     name: 'Ionic',
     link: 'https://ionicframework.com/',
     img: `/${base}/tool/ionic.webp`,
   },
   {
-    name: 'Jquery',
-    link: 'https://jquery.cuishifeng.cn/',
-    img: `/${base}/tool/jquery.png`,
+    name: 'NEXT.js',
+    link: 'https://nextjs.org/',
+    img: `/${base}/tool/nextjs.ico`,
   },
   {
-    name: 'vue-element-admin',
-    link: 'https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD',
-    img: `/${base}/tool/panjiachen.png`,
+    name: 'NUXTJS',
+    link: 'https://nuxtjs.ir/',
+    img: `/${base}/tool/nuxtjs.ico`,
   },
   {
     name: 'RuoYi',
     link: 'http://doc.ruoyi.vip/ruoyi-vue/',
     img: `/${base}/tool/ruoyi.png`,
+  },
+  {
+    name: 'vue-element-admin',
+    link: 'https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD',
+    img: `/${base}/tool/panjiachen.png`,
   },
   {
     name: 'vue-pure-admin',
@@ -93,20 +103,11 @@ const data = [
     img: `/${base}/tool/Github.png`,
   },
   {
-    name: 'NEXT.js',
-    link: 'https://nextjs.org/',
-    img: `/${base}/tool/nextjs.ico`,
+    name: 'Jquery',
+    link: 'https://jquery.cuishifeng.cn/',
+    img: `/${base}/tool/jquery.png`,
   },
-  {
-    name: 'NUXTJS',
-    link: 'https://nuxtjs.ir/',
-    img: `/${base}/tool/nuxtjs.ico`,
-  },
-  {
-    name: 'AntV',
-    link: 'https://x6.antv.antgroup.com/',
-    img: `/${base}/tool/antv.png`,
-  },
+
   {
     name: 'relation-graph',
     link: 'https://www.relation-graph.com/#/index',

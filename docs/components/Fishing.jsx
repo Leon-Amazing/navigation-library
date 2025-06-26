@@ -13,19 +13,24 @@ const data = [
     img: `/${base}/tool/v2ex.png`,
   },
   {
-    name: 'ZMTU',
-    link: 'https://zmtu.com/',
-    img: `/${base}/tool/zmtu.png`,
-  },
-  {
     name: 'NodeLoc',
     link: 'https://nodeloc.cc/',
     img: `/${base}/tool/nodeloc.png`,
   },
   {
+    name: 'ZMTU',
+    link: 'https://zmtu.com/',
+    img: `/${base}/tool/zmtu.png`,
+  },
+  {
     name: '优质简报',
     link: 'https://news.nilh2a2.dev/',
     img: `/${base}/tool/nilh2a2.svg`,
+  },
+  {
+    name: '反斗限免',
+    link: 'https://free.apprcn.com/',
+    img: `/${base}/tool/apprcn.png`,
   },
   {
     name: 'PixelsTech',
@@ -36,11 +41,6 @@ const data = [
     name: 'Ruby China',
     link: 'https://ruby-china.org/',
     img: `/${base}/tool/ruby-china.png`,
-  },
-  {
-    name: '反斗限免',
-    link: 'https://free.apprcn.com/',
-    img: `/${base}/tool/apprcn.png`,
   },
   {
     name: 'Hacker News',
@@ -68,14 +68,19 @@ const data = [
     img: `/${base}/tool/tophub.png`,
   },
   {
-    name: '吾爱破解',
-    link: 'https://www.52pojie.cn/forum-16-1.html',
-    img: `/${base}/tool/forum.png`,
+    name: '速知',
+    link: 'https://suzhi.fun/',
+    img: `/${base}/tool/suzhi.svg`,
   },
   {
     name: 'Papergames',
     link: 'https://papergames.io/zh/',
     img: `/${base}/tool/papergames.svg`,
+  },
+  {
+    name: '吾爱破解',
+    link: 'https://www.52pojie.cn/forum-16-1.html',
+    img: `/${base}/tool/forum.png`,
   },
   {
     name: 'DeepSeek',

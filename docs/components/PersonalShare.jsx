@@ -48,19 +48,9 @@ const data = [
     img: `/${base}/tool/common-blog.png`,
   },
   {
-    name: '编程胶囊',
-    link: 'https://www.codejiaonang.com/#/',
-    img: `/${base}/tool/codejiaonang.png`,
-  },
-  {
     name: 'Markdown 官方教程',
     link: 'https://markdown.com.cn/',
     img: `/${base}/tool/common-blog.png`,
-  },
-  {
-    name: '独立博客列表',
-    link: 'https://github.com/timqian/chinese-independent-blogs?utm_source=gold_browser_extension',
-    img: `/${base}/tool/Github.png`,
   },
   {
     name: 'JS心智模型',
@@ -91,6 +81,16 @@ const data = [
     name: 'lusion',
     link: 'https://labs.lusion.co/',
     img: `/${base}/tool/sudongyuer.png`,
+  },
+  {
+    name: '编程胶囊',
+    link: 'https://www.codejiaonang.com/#/',
+    img: `/${base}/tool/codejiaonang.png`,
+  },
+  {
+    name: '独立博客列表',
+    link: 'https://github.com/timqian/chinese-independent-blogs?utm_source=gold_browser_extension',
+    img: `/${base}/tool/Github.png`,
   },
   {
     name: 'Sinqi Tools',
