@@ -3,6 +3,11 @@ import Component from './index';
 import { base } from './config';
 const data = [
   {
+    name: '现代 JavaScript 教程',
+    link: 'https://zh.javascript.info/',
+    img: `/${base}/tool/javascript.png`,
+  },
+  {
     name: 'Vue3',
     link: 'https://vue3js.cn/',
     img: `/${base}/tool/vue3.svg`,
