@@ -13,6 +13,11 @@ const data = [
     img: `/${base}/tool/v2ex.png`,
   },
   {
+    name: 'iseekup',
+    link: 'https://iseekup.com/',
+    img: `/${base}/tool/iseekup.png`,
+  },
+  {
     name: 'NodeLoc',
     link: 'https://nodeloc.cc/',
     img: `/${base}/tool/nodeloc.png`,
