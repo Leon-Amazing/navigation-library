@@ -13,14 +13,24 @@ const data = [
     img: `/${base}/tool/v2ex.png`,
   },
   {
-    name: 'iseekup',
-    link: 'https://iseekup.com/',
-    img: `/${base}/tool/iseekup.png`,
+    name: '虫部落',
+    link: 'https://www.chongbuluo.com/',
+    img: `/${base}/tool/chongbuluo.ico`,
+  },
+  {
+    name: '小众软件',
+    link: 'https://meta.appinn.net/',
+    img: `/${base}/tool/appinn.png`,
   },
   {
     name: 'NodeLoc',
     link: 'https://nodeloc.cc/',
     img: `/${base}/tool/nodeloc.png`,
+  },
+  {
+    name: 'iseekup',
+    link: 'https://iseekup.com/',
+    img: `/${base}/tool/iseekup.png`,
   },
   {
     name: 'ZMTU',
@@ -33,24 +43,9 @@ const data = [
     img: `/${base}/tool/xitek.ico`,
   },
   {
-    name: '炒饭',
-    link: 'https://choa.fun/',
-    img: `/${base}/tool/choa.png`,
-  },
-  {
     name: 'Chiphell',
     link: 'https://www.chiphell.com/',
     img: `/${base}/tool/chiphell.png`,
-  },
-  {
-    name: '虫部落',
-    link: 'https://www.chongbuluo.com/',
-    img: `/${base}/tool/chongbuluo.ico`,
-  },
-  {
-    name: '小众软件',
-    link: 'https://meta.appinn.net/',
-    img: `/${base}/tool/appinn.png`,
   },
   {
     name: '优质简报',
