@@ -28,6 +28,31 @@ const data = [
     img: `/${base}/tool/zmtu.png`,
   },
   {
+    name: '色影无忌',
+    link: 'https://forum.xitek.com/',
+    img: `/${base}/tool/xitek.ico`,
+  },
+  {
+    name: '炒饭',
+    link: 'https://choa.fun/',
+    img: `/${base}/tool/choa.png`,
+  },
+  {
+    name: 'Chiphell',
+    link: 'https://www.chiphell.com/',
+    img: `/${base}/tool/chiphell.png`,
+  },
+  {
+    name: '虫部落',
+    link: 'https://www.chongbuluo.com/',
+    img: `/${base}/tool/chongbuluo.ico`,
+  },
+  {
+    name: '小众软件',
+    link: 'https://meta.appinn.net/',
+    img: `/${base}/tool/appinn.png`,
+  },
+  {
     name: '优质简报',
     link: 'https://news.nilh2a2.dev/',
     img: `/${base}/tool/nilh2a2.svg`,
