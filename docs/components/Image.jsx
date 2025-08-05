@@ -87,6 +87,16 @@ const data = [
     link: 'https://imgur.com/',
     img: `/${base}/tool/imgur.png`,
   },
+  {
+    name: '智能抠图',
+    link: 'https://magicstudio.com/zh/background-remover/',
+    img: `/${base}/tool/magicstudio.png`,
+  },
+  {
+    name: '动漫头像生成器',
+    link: 'https://toonme.com/',
+    img: `/${base}/tool/toonme.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
