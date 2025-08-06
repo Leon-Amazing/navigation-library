@@ -18,6 +18,11 @@ const data = [
     img: `/${base}/tool/chongbuluo.ico`,
   },
   {
+    name: '音乐磁场',
+    link: 'https://www.hifiti.com/',
+    img: `/${base}/tool/hifiti.ico`,
+  },
+  {
     name: '小众软件',
     link: 'https://meta.appinn.net/',
     img: `/${base}/tool/appinn.png`,
