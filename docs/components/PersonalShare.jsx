@@ -102,6 +102,11 @@ const data = [
     link: 'https://roadmap.sh/frontend',
     img: `/${base}/tool/roadmap.png`,
   },
+  {
+    name: 'Guangzheng Li',
+    link: 'https://guangzhengli.com/',
+    img: `/${base}/tool/guangzhengli.ico`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
