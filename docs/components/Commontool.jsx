@@ -63,6 +63,11 @@ const data = [
     img: `/${base}/tool/yinghezhinan.webp`,
   },
   {
+    name: '星云导航',
+    link: 'https://www.xygalaxy.com/',
+    img: `/${base}/tool/xygalaxy.webp`,
+  },
+  {
     name: 'Excalidraw',
     link: 'https://excalidraw.com/',
     img: `/${base}/tool/excalidraw.png`,
