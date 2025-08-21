@@ -107,6 +107,11 @@ const data = [
     link: 'https://guangzhengli.com/',
     img: `/${base}/tool/guangzhengli.ico`,
   },
+  {
+    name: 'yanyunfeng',
+    link: 'https://yanyunfeng.com/',
+    img: `/${base}/tool/yanyunfeng.ico`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
