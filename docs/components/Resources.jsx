@@ -147,6 +147,36 @@ const data = [
     link: 'https://telemetr.io/en/catalog/global',
     img: `/${base}/tool/telemetr.png`,
   },
+  {
+    name: '夸父资源社',
+    link: 'https://www.kuafuzys.com/',
+    img: `/${base}/tool/kuafuzys.webp`,
+  },
+  {
+    name: '云盘之家',
+    link: 'https://yunpantv.cc/',
+    img: `/${base}/tool/yunpantv.png`,
+  },
+  {
+    name: '资源避难所',
+    link: 'https://www.daiguaji.com/',
+    img: `/${base}/tool/daiguaji.ico`,
+  },
+  {
+    name: '海绵小站',
+    link: 'https://www.hmxz.org/',
+    img: `/${base}/tool/hmxz.ico`,
+  },
+  {
+    name: 'BarkPeers',
+    link: 'https://darkpeers.org/',
+    img: `/${base}/tool/darkpeers.ico`,
+  },
+  {
+    name: 'YUSCENE',
+    link: 'https://yu-scene.net/',
+    img: `/${base}/tool/yu-scene.ico`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
