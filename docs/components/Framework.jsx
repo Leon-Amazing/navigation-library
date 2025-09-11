@@ -148,6 +148,16 @@ const data = [
     link: 'https://vue-data-ui.graphieros.com/',
     img: `/${base}/tool/vue-data-ui.png`,
   },
+  {
+    name: 'Vue 3 Template Explorer',
+    link: 'https://template-explorer.vuejs.org/',
+    img: `/${base}/tool/vue3.svg`,
+  },
+  {
+    name: 'AST Explorer',
+    link: 'https://astexplorer.net/',
+    img: `/${base}/tool/astexplorer.png`,
+  },
 ];
 export default () => {
   return <Component data={data} />;
