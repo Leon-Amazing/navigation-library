@@ -103,6 +103,11 @@ const data = [
     img: `/${base}/tool/chrome.png`,
   },
   {
+    name: 'Regexper',
+    link: 'https://regexper.com/',
+    img: `/${base}/tool/regexper.ico`,
+  },
+  {
     name: 'Chrome插件',
     link: 'https://www.gugeapps.net/',
     img: `/${base}/tool/gugeapps.png`,
