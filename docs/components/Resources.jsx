@@ -78,6 +78,11 @@ const data = [
     img: `/${base}/tool/sehuatang.png`,
   },
   {
+    name: 'SouthPlus',
+    link: 'https://www.south-plus.net/index.php',
+    img: `/${base}/tool/south-plus.ico`,
+  },
+  {
     name: '可可影视',
     link: 'https://www.keke9.com/',
     img: `/${base}/tool/keke.png`,
