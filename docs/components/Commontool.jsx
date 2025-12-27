@@ -8,8 +8,8 @@ const data = [
     img: `/${base}/tool/common-blog.png`,
   },
   {
-    name: '一元机场',
-    link: 'https://xn--4gq62f52gdss.com/#/dashboard',
+    name: 'iKuuu',
+    link: 'https://ikuuu.de/',
     img: `/${base}/tool/common-blog.png`,
   },
   {
@@ -20,6 +20,21 @@ const data = [
   {
     name: '云盟',
     link: 'https://www.ym321.net/',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
+    name: '一元机场',
+    link: 'https://xn--4gq62f52gdss.com/#/dashboard',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
+    name: '西部数据',
+    link: 'https://wd-cloud.net/',
+    img: `/${base}/tool/common-blog.png`,
+  },
+  {
+    name: '花云',
+    link: 'https://huacloud.dev/',
     img: `/${base}/tool/common-blog.png`,
   },
   {
@@ -65,7 +80,7 @@ const data = [
   {
     name: '星云导航',
     link: 'https://www.xygalaxy.com/',
-    img: `/${base}/tool/xygalaxy.webp`,
+    img: `/${base}/tool/xygalaxy.ico`,
   },
   {
     name: 'Excalidraw',
