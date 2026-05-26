@@ -8,6 +8,11 @@ const data = [
     img: `/${base}/tool/linux.do.png`,
   },
   {
+    name: '煎蛋',
+    link: 'https://jandan.net/',
+    img: `/${base}/tool/jandan.ico`,
+  },
+  {
     name: 'V2EX',
     link: 'https://www.v2ex.com/',
     img: `/${base}/tool/v2ex.png`,
